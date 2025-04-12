@@ -29,4 +29,4 @@ WITH (
 AS
 SELECT * FROM gold.ca;
 
-neu-synapse-awproject-dtr-ondemand.sql.azuresynapse.net
+-- neu-synapse-awproject-dtr-ondemand.sql.azuresynapse.net
